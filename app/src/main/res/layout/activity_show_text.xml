@@ -19,6 +19,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="100dp"/>
     <TextView
+        android:id="@+id/handw"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20dp"
@@ -28,6 +29,7 @@
 
         />
     <TextView
+        android:id="@+id/bmiis"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="15dp"
@@ -37,6 +39,7 @@
 
         />
     <TextView
+        android:id="@+id/valuee"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="15dp"
@@ -47,6 +50,7 @@
         />
 
     <Button
+        android:id="@+id/btnShare"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
